@@ -96,7 +96,7 @@ a:focus {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-color: #3ed261;
+  background-color: #4f008c;
   border-radius: 0 0 350px 0;
 }
 
@@ -443,7 +443,7 @@ a:focus {
 .service_section .box:hover::before {
   -webkit-transform: scale(5);
           transform: scale(5);
-  background-color: #3ed261;
+  background-color: #4f008c;
 }
 
 .service_section .box:hover img {
@@ -479,7 +479,7 @@ a:focus {
 }
 
 .about_section {
-  background-color: #3ed261;
+  background-color: #4f008c;
   color: #ffffff;
   border-radius: 250px 0 250px 0;
 }
@@ -561,7 +561,7 @@ a:focus {
 }
 
 .case_section .box .detail-box a {
-  color: #3ed261;
+  color: #4f008c;
 }
 
 .client_section .box {
@@ -616,7 +616,7 @@ a:focus {
 
 .client_section .box .detail-box {
   background-color: #ffffff;
-  background-color: #3ed261;
+  background-color: #4f008c;
   color: #ffffff;
   border-radius: 15px;
   padding: 85px 45px 15px 45px;
@@ -634,7 +634,7 @@ a:focus {
 }
 
 .client_section .carousel-indicators li {
-  background-color: #3ed261;
+  background-color: #4f008c;
   width: 10px;
   height: 10px;
   border-radius: 100%;
@@ -723,7 +723,7 @@ a:focus {
 }
 
 .footer_container {
-  background-color: #3ed261;
+  background-color: #4f008c;
   color: #ffffff;
   border-radius: 350px 0 0 0;
   padding-top: 145px;
